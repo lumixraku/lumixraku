@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 ![Static Badge](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![Static Badge](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Golang-blue?style=flat-square&logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&logoColor=white&labelColor=339933)
+
 
 
 ![lumixraku's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumixraku)
